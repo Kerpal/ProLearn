@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>23607187303-bj5i2ilpffpuvls619sf1i3nkfen15o1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.23607187303-bj5i2ilpffpuvls619sf1i3nkfen15o1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBskM2IlJtPKL7j6T4mtxdsMCNCmPEtC1o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>23607187303</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.groupProject.ProLearn</string>
+	<key>PROJECT_ID</key>
+	<string>loginpage-efd86</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loginpage-efd86.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:23607187303:ios:dfb2823c0c240a249101c2</string>
+	<key>DATABASE_URL</key>
+	<string>https://loginpage-efd86.firebaseio.com</string>
+</dict>
+</plist>
